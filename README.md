@@ -10,5 +10,5 @@ Created 3 same calculators but in 3 different ways:
 
 Live:
 
-https://ptaszek1.github.io/Calculators/.
+https://ptaszek1.github.io/Calculators/
 
